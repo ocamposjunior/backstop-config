@@ -1,6 +1,6 @@
 # backstop-config
 
-A sample project with a simple implementation of [BackstopJS](https://github.com/garris/BackstopJS) tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different relative URLs. E.g. http://example.com, http://example.com/page1, http://example.com/page2, etc.
+Um projeto simples de implementação do [BackstopJS](https://github.com/garris/BackstopJS). Testes que podem ser usados por qualquer pessoa que precise executar testes de comparação de captura de tela em páginas da Web estáticas que tenham URLs. Exemplo: http://exemplo.com, http://exemplo.com/pagina1, http://exemplo.com/pagina2, etc.
 
 ## Pre-requirements
 
